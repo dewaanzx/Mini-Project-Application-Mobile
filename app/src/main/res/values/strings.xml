@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Mini Project Application Mobile</string>
     <string name="tv_login">Sign Up</string>
-    <string name="input_username">username</string>
-    <string name="input_password">password</string>
+    <string name="input_username">Username</string>
+    <string name="input_password">Password</string>
     <string name="tv_fullname">Full name</string>
     <string name="email">Email</string>
     <string name="bt_login">Sign Up</string>

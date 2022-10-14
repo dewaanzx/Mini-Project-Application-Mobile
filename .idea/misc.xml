@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Semester 3/RPL/New folder/Mini-Project-Application-Mobile/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Semester 3/RPL/New folder/Mini-Project-Application-Mobile/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Semester 3/RPL/New folder/Mini-Project-Application-Mobile/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Semester 3/RPL/New folder/Mini-Project-Application-Mobile/app/src/main/res/layout/activity_register.xml" value="0.22" />
       </map>
     </option>
   </component>

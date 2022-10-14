@@ -15,7 +15,7 @@
         android:layout_width="371dp"
         android:layout_height="185dp"
         android:layout_gravity="center"
-        android:fontFamily="@font/alatsi"
+        android:fontFamily="@font/andika_new_basic_bold"
         android:gravity="center"
         android:text="@string/tv_login"
         android:textColor="#673AB7"
@@ -84,6 +84,7 @@
         android:layout_width="210dp"
         android:layout_height="50dp"
         android:layout_gravity="center"
+        android:fontFamily="@font/andika_new_basic_bold"
         android:text="@string/bt_login"
         tools:ignore="DuplicateSpeakableTextCheck" />
 
@@ -92,14 +93,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:fontFamily="@font/andika_new_basic_bold"
         android:text="@string/tx_daftar"
         android:textColor="#636363" />
 
     <TextView
-        android:id="@+id/log_daftar"
+        android:id="@+id/tvLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:fontFamily="@font/andika_new_basic_bold"
         android:text="@string/tx_daftar2"
         android:textColor="#DD2C00" />
 
